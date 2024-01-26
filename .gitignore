@@ -1,0 +1,8 @@
+build
+.vscode
+vendor/libmodbus/bin
+vendor/libmodbus/include
+vendor/libmodbus/lib
+vendor/opencv/bin
+vendor/opencv/include
+vendor/opencv/lib
